@@ -1,0 +1,110 @@
+[
+  {
+    "id": "exp_sample_1",
+    "title": "Whole Foods Market - Groceries",
+    "amount": 142.65,
+    "category": "Food & Dining",
+    "date": "2026-10-02",
+    "notes": "Weekly fresh groceries, organic produce and milk",
+    "created_at": 1790921528072
+  },
+  {
+    "id": "exp_sample_2",
+    "title": "Monthly Apartment Rent",
+    "amount": 1350,
+    "category": "Housing & Rent",
+    "date": "2026-09-30",
+    "notes": "Primary monthly lease installment",
+    "created_at": 1790748728072
+  },
+  {
+    "id": "exp_sample_3",
+    "title": "City Power & Electric Utility",
+    "amount": 88.4,
+    "category": "Utilities",
+    "date": "2026-09-28",
+    "notes": "Monthly electric and gas billing",
+    "created_at": 1790575928072
+  },
+  {
+    "id": "exp_sample_4",
+    "title": "Metro Rapid Transit Monthly Pass",
+    "amount": 78,
+    "category": "Transportation",
+    "date": "2026-09-26",
+    "notes": "Commute train and bus card refill",
+    "created_at": 1790403128072
+  },
+  {
+    "id": "exp_sample_5",
+    "title": "Blue Bottle Coffee & Bakery",
+    "amount": 14.5,
+    "category": "Food & Dining",
+    "date": "2026-10-01",
+    "notes": "Espresso and almond croissant",
+    "created_at": 1790835128072
+  },
+  {
+    "id": "exp_sample_6",
+    "title": "Prescription Refill & Vitamins",
+    "amount": 45.2,
+    "category": "Healthcare",
+    "date": "2026-09-25",
+    "notes": "Walgreens pharmacy run",
+    "created_at": 1790316728072
+  },
+  {
+    "id": "exp_sample_7",
+    "title": "Streaming & Media Subscriptions",
+    "amount": 29.98,
+    "category": "Entertainment",
+    "date": "2026-09-23",
+    "notes": "Spotify Premium + Netflix Standard",
+    "created_at": 1790143928072
+  },
+  {
+    "id": "exp_sample_8",
+    "title": "High-Speed Fiber Internet",
+    "amount": 65,
+    "category": "Utilities",
+    "date": "2026-09-21",
+    "notes": "Monthly 500Mbps symmetrical fiber connection",
+    "created_at": 1789971128072
+  },
+  {
+    "id": "exp_sample_9",
+    "title": "Ergonomic Desk Accessories",
+    "amount": 94.5,
+    "category": "Shopping",
+    "date": "2026-09-19",
+    "notes": "Laptop stand and memory foam wrist rest",
+    "created_at": 1789798328072
+  },
+  {
+    "id": "exp_sample_10",
+    "title": "Gasoline Fuel Refill",
+    "amount": 52.3,
+    "category": "Transportation",
+    "date": "2026-09-17",
+    "notes": "Shell station 12 gallons regular unleaded",
+    "created_at": 1789625528072
+  },
+  {
+    "id": "exp_sample_11",
+    "title": "Weekend Movie & IMAX Tickets",
+    "amount": 36,
+    "category": "Entertainment",
+    "date": "2026-09-15",
+    "notes": "Two theater passes and popcorn",
+    "created_at": 1789452728072
+  },
+  {
+    "id": "exp_sample_12",
+    "title": "Italian Trattoria Dinner",
+    "amount": 72.8,
+    "category": "Food & Dining",
+    "date": "2026-09-13",
+    "notes": "Dinner with friends, pasta and dessert",
+    "created_at": 1789279928072
+  }
+]

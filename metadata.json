@@ -1,0 +1,6 @@
+{
+  "name": "TrackFlow - Modern Expense Tracker",
+  "description": "A full-stack modern expense tracker with real-time analytics, category breakdowns, persistent database storage, and quick expense logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
